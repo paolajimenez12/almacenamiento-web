@@ -1,20 +1,22 @@
-# 🌐 Proyecto: Almacenamiento Web
+# 📦 Storage Analysis Tool
 
-Este es un sitio web estático educativo sobre **tipos de almacenamiento de datos**.  
-Contiene secciones con tarjetas, tabla comparativa, glosario y un quiz interactivo.
+Aplicación en **Streamlit** para analizar datos de almacenamiento, simular crecimiento y exportar resultados a Excel.
+
+## 🚀 Cómo usar
+
+1. Ve a [Streamlit Cloud](https://streamlit.io/cloud).
+2. Conecta este repositorio.
+3. Elige `app.py` como archivo principal.
+4. ¡Listo! La app se desplegará online.
+
+## 📂 Funcionalidades
+- Subir CSV con datos de almacenamiento.
+- Ver métricas básicas.
+- Simular crecimiento anual por N años.
+- Descargar resultados en Excel.
+
+## 📊 Datos de ejemplo
+La app incluye datos de ejemplo para probar rápidamente.
 
 ---
-
-## 🚀 Cómo desplegar en Vercel (solo navegador)
-
-No necesitas instalar nada en tu computadora.  
-
-1. Ve a [https://vercel.com](https://vercel.com) y crea una cuenta (puedes usar tu cuenta de GitHub).  
-2. Haz clic en **New Project**.  
-3. Conecta tu cuenta de GitHub (si aún no está conectada).  
-4. Busca y selecciona el repositorio `almacenamiento-web`.  
-5. Asegúrate de que Vercel detecte que es un **proyecto estático** (lo hace automáticamente al ver el `index.html`).  
-6. Haz clic en **Deploy**.  
-
-En unos segundos tendrás tu web publicada en una URL pública como:  
 
